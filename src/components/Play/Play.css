@@ -1,0 +1,39 @@
+.info-container {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.row {
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.input-container {
+    flex: 1;
+}
+
+.button-container {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.disable-button {
+    opacity: 0.5;
+}
+
+.game-word-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.action-button-container {
+    margin-top: 30px;
+}

@@ -1,0 +1,4 @@
+export const GET_HISTORY = "GET_HISTORY"
+export const REQUEST_NEW_WORDS = "REQUEST_NEW_WORDS"
+export const SAVE_GAME = "SAVE_GAME"
+export const UPDATE_GAME = "UPDATE_GAME"
